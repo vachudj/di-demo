@@ -3,3 +3,11 @@ guru:
     username: JMS Username
     password: JmsSomepass
     url: SomeUrl
+    
+---
+
+spring:
+  profiles: de
+guru:
+  jms:
+    username: JMS Username $$$$$$$$$$$ German
