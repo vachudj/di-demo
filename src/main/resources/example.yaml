@@ -1,0 +1,40 @@
+# this is comment
+
+name: John
+
+names: #Comment
+  - John
+  - Paul
+  - Ringo
+  
+pound_sign: "#"
+  
+book:
+  author: Joe Buck
+  publisher: random house
+  
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "This is it's quiote"
+
+colon_string: "my courses: one two three"
+
+include_lines: |
+  asdf asdfasdfad
+  adsfasdf fsadfda
+   fasdfdadsf fasdfaf adfasd
+   
+ingore_new_lines: >
+  trewwert asdf asdf
+  just one long
+  string
+  
+     
+
+    
